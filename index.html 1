@@ -57,7 +57,7 @@
 </head>
 <body>
   <div class="login-container">
-    <!-- Use your college logo file here -->
+    <!-- downdode--!>
     <img src="logo.png" alt="College Logo" class="logo" />
     <h2>College Login</h2>
     <form action="#" method="post">
